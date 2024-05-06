@@ -1,0 +1,14 @@
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkLinkedlistDelegate\HomeWorkLinkedlistDelegate\bin\Debug\net6.0\HomeWorkLinkedlistDelegate.exe
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkLinkedlistDelegate\HomeWorkLinkedlistDelegate\bin\Debug\net6.0\HomeWorkLinkedlistDelegate.deps.json
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkLinkedlistDelegate\HomeWorkLinkedlistDelegate\bin\Debug\net6.0\HomeWorkLinkedlistDelegate.runtimeconfig.json
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkLinkedlistDelegate\HomeWorkLinkedlistDelegate\bin\Debug\net6.0\HomeWorkLinkedlistDelegate.dll
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkLinkedlistDelegate\HomeWorkLinkedlistDelegate\bin\Debug\net6.0\HomeWorkLinkedlistDelegate.pdb
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkLinkedlistDelegate\HomeWorkLinkedlistDelegate\obj\Debug\net6.0\HomeWorkLinkedlistDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkLinkedlistDelegate\HomeWorkLinkedlistDelegate\obj\Debug\net6.0\HomeWorkLinkedlistDelegate.AssemblyInfoInputs.cache
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkLinkedlistDelegate\HomeWorkLinkedlistDelegate\obj\Debug\net6.0\HomeWorkLinkedlistDelegate.AssemblyInfo.cs
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkLinkedlistDelegate\HomeWorkLinkedlistDelegate\obj\Debug\net6.0\HomeWorkLinkedlistDelegate.csproj.CoreCompileInputs.cache
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkLinkedlistDelegate\HomeWorkLinkedlistDelegate\obj\Debug\net6.0\HomeWorkLinkedlistDelegate.dll
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkLinkedlistDelegate\HomeWorkLinkedlistDelegate\obj\Debug\net6.0\refint\HomeWorkLinkedlistDelegate.dll
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkLinkedlistDelegate\HomeWorkLinkedlistDelegate\obj\Debug\net6.0\HomeWorkLinkedlistDelegate.pdb
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkLinkedlistDelegate\HomeWorkLinkedlistDelegate\obj\Debug\net6.0\HomeWorkLinkedlistDelegate.genruntimeconfig.cache
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkLinkedlistDelegate\HomeWorkLinkedlistDelegate\obj\Debug\net6.0\ref\HomeWorkLinkedlistDelegate.dll
